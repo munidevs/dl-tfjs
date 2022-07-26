@@ -1,0 +1,19 @@
+{
+  "name": "dl-tfjs",
+  "version": "1.0.0",
+  "description": "Deep Learning with TFJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munidevs/dl-tfjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munidevs/dl-tfjs/issues"
+  },
+  "homepage": "https://github.com/munidevs/dl-tfjs#readme"
+}
